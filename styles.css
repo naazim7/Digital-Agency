@@ -1,0 +1,36 @@
+.navbar{
+   background-image: linear-gradient(to right,#a517b4,#5f1782)!important;
+
+}
+.navbar-nav .nav-item .nav-link{
+    color: white!important ;
+    font-weight: 600!important;
+}
+
+/* bannner */
+#banner{
+    background-image: linear-gradient(to right,#a517b4,#5f1782);
+}
+#banner a{
+    color: white;
+    text-decoration: none;
+}
+/* .waves{
+    width: 100%!important;
+} */
+.title-text{
+    text-align: center;
+    padding: 20px;
+}
+.bg-service{
+    background-color:#f8f9fa;
+}
+.pic{
+    border: 2px solid blue;
+    border-radius: 50%;
+    margin-left: 10px;
+}
+.borders{
+   border-left:  4px solid #7b1798;
+ 
+}
